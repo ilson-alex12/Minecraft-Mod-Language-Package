@@ -1,1 +1,23 @@
-{}
+{ 
+     "item.mcpaint.brush": "刷子",
+    "item.mcpaint.stamp": "Stamp",
+    "block.mcpaint.canvas": "Painted Block",
+    "mcpaint.tooltip.stamp.paint": "Sneak-click on air to clear",
+    "mcpaint.tooltip.stamp.nopaint": "Sneak-click on block with paint to copy",
+    "mcpaint.drawsetup": "设置图像的分辨率",
+    "mcpaint.drawgui": "绘制图像",
+    "mcpaint.gui.pencil": "铅笔",
+    "mcpaint.gui.fill": "填充",
+    "mcpaint.gui.eraser": "橡皮",
+    "mcpaint.gui.pick_color": "Picker",
+    "mcpaint.gui.undo": "撤销",
+    "mcpaint.gui.redo": "重做",
+    "mcpaint.gui.red": "红",
+    "mcpaint.gui.green": "绿",
+    "mcpaint.gui.blue": "蓝",
+    "mcpaint.gui.alpha": "透明度",
+    "mcpaint.gui.rright": "向右转",
+    "mcpaint.gui.rleft": "向左转",
+    "mcpaint.gui.export": "Export",
+    "mcpaint.gui.saved": "Saved painting as %s"
+}
